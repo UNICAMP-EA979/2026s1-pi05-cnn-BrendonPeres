@@ -1,0 +1,9 @@
+batch_size: 32
+cpu: false
+experiment_name: ClassificadorPele-Desbalanceado
+lr: 0.0001
+max_epochs: 70
+nin: 3
+nout: 2
+nworkers: 8
+wd: 1.0e-05
